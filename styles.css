@@ -7,6 +7,8 @@ html, body {
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
+    background-color: #82A880;
+    color: white;
 }
 
 h1, h2, h3, h4 {
@@ -21,7 +23,7 @@ ul li {
 .image-section {
     height: 100vh;
     text-align: center;
-    background-color: #262626;
+    background-color: #547152;
     padding: 20px;
 }
 
